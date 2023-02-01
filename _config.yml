@@ -1,0 +1,18 @@
+# Setup
+title:        Dream of An Ecological Silicon Valley
+tagline:      A responsive theme for your project on GitHub Pages
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       sendu123
+  url:        http://yourhomepage.com 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
